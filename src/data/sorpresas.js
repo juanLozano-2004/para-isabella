@@ -16,7 +16,7 @@ export const sorpresas = [
   {
     fecha: '2026-10-27',
     tipo: 'rasca',
-    titulo: 'Rasca y descubre tu premio',
+    titulo: 'Si quieres tu premio mi amor, debes desenterrarlo',
     mensaje: 'Este cupón es válido por una cita sorpresa planeada completamente por mí. Tú solo tienes que decir cuándo.',
     extra: { premio: '🎟️ Cupón: 1 cita sorpresa' }
   },
