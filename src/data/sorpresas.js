@@ -23,14 +23,14 @@ export const sorpresas = [
   {
     fecha: '2026-10-28',
     tipo: 'memoria',
-    titulo: 'Encuentra las parejas',
-    mensaje: 'Igual que estas cartas, yo también encontré a mi pareja perfecta. Y fuiste tú, Isabella.',
+    titulo: 'Encuentra las parejas mi amor para descubrir el mensaje secreto',
+    mensaje: 'Igual que estas cartas, yo también encontré a mi pareja perfecta. Y fuiste tú, Isabella, en ese aeropuerto donde inicio nuestra bella historia, te amo muchisimo',
     extra: { emojis: ['💖', '🌹', '🌙', '🦋', '🍓', '✨'] }
   },
   {
     fecha: '2026-10-29',
     tipo: 'constelacion',
-    titulo: 'Une las estrellas',
+    titulo: 'Une las estrellas mi amor',
     mensaje: 'Si pudiera dibujar en el cielo, todas las estrellas formarían tu nombre. Eres mi lugar favorito del universo.',
     extra: { estrellas: 12 }
   },
