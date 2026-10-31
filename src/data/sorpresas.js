@@ -43,10 +43,10 @@ export const sorpresas = [
   },
   {
     fecha: '2026-10-31',
-    tipo: 'atrapa',
-    titulo: 'Atrapa todos mis corazones',
-    mensaje: 'Aunque la verdad no tenías que atraparlos, todos mis corazones ya eran tuyos desde hace mucho.',
-    extra: { meta: 12 }
+    tipo: 'atrapa todo mi amor',
+    titulo: 'Atrapa todos mis corazones, aunque no sean el real porque ya eres dueña de el desde que nos conocimos mi amor',
+    mensaje: 'Aunque la verdad no tenías que atraparlos, Mi corazones ya es tuyo desde hace mucho, porque te lo ganaste y porque lomereces, lo cuidas y lo amas, te adoro mi cielo',
+    extra: { meta: 30 }
   },
   {
     fecha: '2026-11-01',
