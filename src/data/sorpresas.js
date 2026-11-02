@@ -52,7 +52,14 @@ export const sorpresas = [
     fecha: '2026-11-01',
     tipo: 'burbujas',
     titulo: 'Revienta las burbujas',
-    mensaje: 'Gracias por cada domingo, cada risa y cada abrazo. Te amo más de lo que las palabras alcanzan a decir.',
-    extra: { palabras: ['Eres', 'mi', 'persona', 'favorita', 'en', 'todo', 'el', 'mundo'] }
+    mensaje: 'Gracias por cada domingo, cada risa y cada abrazo, cada día te amo más de lo que las palabras alcanzan a decir, ya el decir te amo, te adoro o que me encantas se queda corto, porque eres lo mejor que me ha pasado en la vida y lo mejor que me pasaráy hasta el día que encuentre la palabra que diga lo que siento, te lo demostraré',
+    extra: { palabras: ['Tu','Isabella','haces','que','mi','vida','sea','muchisimo','mejor',',te','adoro','con','todo','mi','ser,','eres', 'mi', 'persona', 'favorita', 'en', 'todo', 'el', 'mundo'] }
+  },
+  {
+    fecha: '2026-11-02',
+    tipo: 'carta',
+    titulo: 'Una carta para cerrar la semana e iniciarla con un gran festivo',
+    mensaje: 'Mi amor, quiero que sepas que cada día a tu lado es un regalo, gracias por ser mi compañera, mi amiga y mi amor eterno y la bendición más grande que me ha dado la vida, te amo con todo mi corazón y siempre lo haré.',
+    extra: { firma: 'Con todo mi amor, tu novio 💌. SIEMPRE tuyo.' }
   }
 ]
