@@ -61,5 +61,12 @@ export const sorpresas = [
     titulo: 'Una carta para cerrar la semana e iniciarla con un gran festivo',
     mensaje: 'Mi amor, quiero que sepas que cada día a tu lado es un regalo, gracias por ser mi compañera, mi amiga y mi amor eterno y la bendición más grande que me ha dado la vida, te amo con todo mi corazón y siempre lo haré.',
     extra: { firma: 'Con todo mi amor, tu novio 💌. SIEMPRE tuyo.' }
+  },
+  {
+    fecha: '2026-11-03',
+    tipo: 'rasca',
+    titulo: 'Descubre un pedazo de nuestra historia mi amor',
+    mensaje: 'Desde el primer día que nos conocimos, supe que había algo especial entre nosotros. Cada momento contigo es un tesoro que guardo en mi corazón. Gracias por ser mi compañera de vida y por hacerme sentir amado cada día.',
+    extra: { premio: '🎟️ Una vida juntos ❤️' }
   }
 ]
