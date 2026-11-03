@@ -68,5 +68,12 @@ export const sorpresas = [
     titulo: 'Descubre un pedazo de nuestra historia mi amor',
     mensaje: 'Desde el primer día que nos conocimos, supe que había algo especial entre nosotros. Cada momento contigo es un tesoro que guardo en mi corazón. Gracias por ser mi compañera de vida y por hacerme sentir amado cada día.',
     extra: { premio: '🎟️ Una vida juntos ❤️' }
-  }
+  },
+  {
+    fecha: '2026-11-04',
+    tipo: 'memoria',
+    titulo: 'Debes de jugar mi amor para desbloquear el mnensaje secreto que te tengo preparado',
+    mensaje: 'Gracias por dedicar un tiempo de tu vida a mi vida, gracias por cada momento que hemos compartido, gracias por ser mi compañera, mi amiga y mi amor eterno. Te amo con todo mi corazón y siempre lo haré.',
+    extra: { emojis: ['💖', '🌹', '🌙', '🦋', '🍓', '✨'] }
+  },
 ]
