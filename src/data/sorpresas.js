@@ -76,4 +76,11 @@ export const sorpresas = [
     mensaje: 'Gracias por dedicar un tiempo de tu vida a mi vida, gracias por cada momento que hemos compartido, gracias por ser mi compañera, mi amiga y mi amor eterno. Te amo con todo mi corazón y siempre lo haré.',
     extra: { emojis: ['💖', '🌹', '🌙', '🦋', '🍓', '✨'] }
   },
+  {
+    fecha: '2026-11-05',
+    tipo: 'constelacion',
+    titulo: 'Ve paso a paso mi amor y une las estrellas para descubrir el mensaje secreto que te tengo preparado',
+    mensaje: 'Ni todas las estrellas del cielo podrían igualar la luz que traes a mi vida. Eres mi guía y mi inspiración, y cada día contigo es un regalo que atesoro profundamente.',
+    extra: { estrellas: 20 }
+  },
 ]
