@@ -83,4 +83,11 @@ export const sorpresas = [
     mensaje: 'Ni todas las estrellas del cielo podrían igualar la luz que traes a mi vida. Eres mi guía y mi inspiración, y cada día contigo es un regalo que atesoro profundamente.',
     extra: { estrellas: 20 }
   },
+  {
+    fecha: '2026-11-06',
+    tipo: 'palabra',
+    titulo: 'Descubre mi amor la palabra secreta que te tengo preparada',
+    mensaje: 'Esta palabra representa algo con lo que inicio nuestra relación y que siempre me recuerda a ti: aunque no me lo aceptaras mi amor jeje.',
+    extra: { palabra: 'SANDWICH', pista: 'Lo primero que te ofreci mi amor' }
+  },
 ]
