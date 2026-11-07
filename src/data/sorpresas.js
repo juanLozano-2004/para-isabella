@@ -90,4 +90,11 @@ export const sorpresas = [
     mensaje: 'Esta palabra representa algo con lo que inicio nuestra relación y que siempre me recuerda a ti: aunque no me lo aceptaras mi amor jeje.',
     extra: { palabra: 'SANDWICH', pista: 'Lo primero que te ofreci mi amor' }
   },
+  {
+    fecha: '2026-11-07',
+    tipo: 'Como mi corazon es tuyo, atrapa todos mis corazones mi amor',
+    titulo: 'Atrapa todos mis corazones, aunque no sean el real porque ya eres dueña de el desde que nos conocimos mi amor',
+    mensaje: 'Gracias por darle sentido a mi vida, por hacerme sentir amado y por ser mi compañera en cada paso del camino. Eres mi todo, Isabella, y te amo más de lo que las palabras pueden expresar.',
+    extra: { meta: 15 }
+  },
 ]
