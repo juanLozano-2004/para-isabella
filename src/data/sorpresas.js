@@ -111,4 +111,11 @@ export const sorpresas = [
     mensaje: 'Isa, jamas olvides la mujer tan maravillosa que eres, te amo con todo mi corazon y siempre lo hare, eres lo mejor que me ha pasado en la vida y lo mejor que me pasara, te adoro mi cielo',
     extra: { firma: 'Eres la mejor mi vida, te adoro.' }
   },
+  {
+    fecha: '2026-11-10',
+    tipo: 'rasca',
+    titulo: 'Necesitas descubrir tu premio mi amor, asi que rasca y descubre lo que te tengo preparado',
+    mensaje: 'Este cupón es válido por una noche de juegos y diversión juntos, donde tú eliges la actividad y yo me encargo de todo lo demás. ¡Será una noche inolvidable!',
+    extra: { premio: '🎟️ Cupón: Noche de juegos juntos' }
+  },
 ]
