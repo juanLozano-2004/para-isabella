@@ -98,10 +98,17 @@ export const sorpresas = [
     extra: { meta: 15 }
   },
   {
-    fecha: '2026-11-01',
+    fecha: '2026-11-08',
     tipo: 'burbujas',
     titulo: 'Revienta las burbujas',
     mensaje: 'Isabella, gracias por brindarme cada dia mas amor, apoyio, alegria, felicidad, y por ser la mejor novia del mundo, te amo con todo mi corazon y siempre lo hare, eres lo mejor que me ha pasado en la vida y lo mejor que me pasara, te adoro mi cielo',
     extra: { palabras: ['Eres',"la","mujer", 'que', 'mi', 'vida', 'necesitaba', 'te', 'amo', 'con', 'todo', 'mi', 'ser', 'y', 'agradezco', 'que', 'me', 'dejaras', 'entrar', 'en', 'tu', 'vida', 'te', 'amo'] }
+  },
+  {
+    fecha: '2026-11-09',
+    tipo: 'carta',
+    titulo: 'Una carta para iniciar la semnana mi amor',
+    mensaje: 'Isa, jamas olvides la mujer tan maravillosa que eres, te amo con todo mi corazon y siempre lo hare, eres lo mejor que me ha pasado en la vida y lo mejor que me pasara, te adoro mi cielo',
+    extra: { firma: 'Eres la mejor mi vida, te adoro.' }
   },
 ]
