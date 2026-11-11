@@ -118,4 +118,11 @@ export const sorpresas = [
     mensaje: 'Este cupón es válido por una noche de juegos y diversión juntos, donde tú eliges la actividad y yo me encargo de todo lo demás. ¡Será una noche inolvidable!',
     extra: { premio: '🎟️ Cupón: Noche de juegos juntos' }
   },
-]
+  {
+    fecha: '2026-11-11',
+    tipo: 'memoria',
+    titulo: 'Debes descubrir el mensaje secreto mi amor, asi que juega y desbloquealo',
+    mensaje: 'Igual que estas cartas, yo también encontré a mi pareja perfecta. Y fuiste tú, Isabella, en ese aeropuerto donde inicio nuestra bella historia, te amo muchisimo',
+    extra: { emojis: ['🐶', '👀', '💫', '🦋', '🍓', '✨','💩','😅','😍'] }
+  },
+] 
