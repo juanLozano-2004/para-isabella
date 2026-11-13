@@ -125,4 +125,18 @@ export const sorpresas = [
     mensaje: 'Igual que estas cartas, yo también encontré a mi pareja perfecta. Y fuiste tú, Isabella, en ese aeropuerto donde inicio nuestra bella historia, te amo muchisimo',
     extra: { emojis: ['🐶', '👀', '💫', '🦋', '🍓', '✨','💩','😅','😍'] }
   },
+  {
+    fecha: '2026-11-12',
+    tipo: 'constelacion',
+    titulo: 'Une las estrellas que muestran la luz que le das a mi vida.',
+    mensaje: 'Cada vez que mires al cielo, recuerda que hay una constelación que lleva tu nombre, porque eres la luz que ilumina mi vida y la razón de mi felicidad.',
+    extra: { estrellas: 20}
+  },
+  {
+    fecha: '2026-10-13',
+    tipo: 'palabra',
+    titulo: 'Para el mensaje encontrar, la palabra secreta debes ordenar',
+    mensaje: 'Eres la mejor mi vida, te adoro.',
+    extra: { palabra: 'FIONA', pista: 'Alguien que te ama y te espera' }
+  },
 ] 
