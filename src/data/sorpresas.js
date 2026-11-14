@@ -133,10 +133,10 @@ export const sorpresas = [
     extra: { estrellas: 20}
   },
   {
-    fecha: '2026-10-13',
+    fecha: '2026-11-13',
     tipo: 'palabra',
     titulo: 'Para el mensaje encontrar, la palabra secreta debes ordenar',
     mensaje: 'Eres la mejor mi vida, te adoro.',
-    extra: { palabra: 'FIONA', pista: 'Alguien que te ama y te espera' }
+    extra: { palabra: 'FIONA', pista: 'Alguien que te ama y te espera mucho' }
   },
 ] 
