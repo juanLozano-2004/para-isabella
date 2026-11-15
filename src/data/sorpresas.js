@@ -139,4 +139,18 @@ export const sorpresas = [
     mensaje: 'Eres la mejor mi vida, te adoro.',
     extra: { palabra: 'FIONA', pista: 'Alguien que te ama y te espera mucho' }
   },
+  {
+    fecha: '2026-11-14',
+    tipo: 'atrapa todo mi amor',
+    titulo: 'turno de ser veloz mi vida',
+    mensaje: 'cada dia mi corazon late mas rapido por ti, eres lo mejor que me ha pasado en la vida y lo mejor que me pasara, te adoro mi cielo',
+    extra: { meta: 18 }
+  },
+  {
+    fecha: '2026-11-15',
+    tipo: 'burbujas',
+    titulo: 'Como papel burbuja mi amor, revienta las burbujas y descubre el mensaje secreto que te tengo preparado',
+    mensaje: 'Eres el amor de mi vida, mi compañera y mi mejor amiga. Gracias por cada momento compartido y por hacer que cada día sea especial. Te amo con todo mi corazón y siempre lo haré.',
+    extra: { palabras: ['Te','adoro','con','todo','mi','ser,','gracias','por','iluminar',',mi','vida','y','darme','un','amor,','tan', 'bello', 'como', 'lo', 'das', 'tu,', 'te', 'adoro'] }
+  },
 ] 
