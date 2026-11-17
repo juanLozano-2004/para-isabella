@@ -153,4 +153,32 @@ export const sorpresas = [
     mensaje: 'Eres el amor de mi vida, mi compañera y mi mejor amiga. Gracias por cada momento compartido y por hacer que cada día sea especial. Te amo con todo mi corazón y siempre lo haré.',
     extra: { palabras: ['Te','adoro','con','todo','mi','ser,','gracias','por','iluminar',',mi','vida','y','darme','un','amor,','tan', 'bello', 'como', 'lo', 'das', 'tu,', 'te', 'adoro'] }
   },
+  {
+    fecha: '2026-11-16',
+    tipo: 'carta',
+    titulo: 'Una carta para empezar esta nueva semana juntos mi amor',
+    mensaje: 'Mi amor, una semana más a tu lado y una semana más en la que me enamoro de ti como el primer día. Gracias por tu paciencia, por tu ternura y por esa sonrisa que me arregla cualquier día. Que esta semana sea tan bonita como tú.',
+    extra: { firma: 'Con todo mi amor, tu novio 💌. Hoy y siempre.' }
+  },
+  {
+    fecha: '2026-11-17',
+    tipo: 'rasca',
+    titulo: 'Hay un premio escondido para ti mi vida, rasca y descúbrelo',
+    mensaje: 'Este cupón es válido por un día de consentirte: tu comida favorita, una película que tú elijas y todos los abrazos y besos que quieras. Tú pones la fecha, yo me encargo del resto.',
+    extra: { premio: '🎟️ Cupón: 1 día de consentirte' }
+  },
+  {
+    fecha: '2026-11-18',
+    tipo: 'memoria',
+    titulo: 'Encuentra todas las parejas mi amor y descubre lo que mi corazón quiere decirte',
+    mensaje: 'Puedo olvidar muchas cosas, pero nunca olvidaré cómo me miras, cómo te ríes y cómo me haces sentir en casa cuando estoy contigo. Eres mi recuerdo favorito y el que quiero seguir construyendo toda la vida.',
+    extra: { emojis: ['💕', '🌷', '☀️', '🐻', '🍫', '💍', '🎀', '🌈'] }
+  },
+  {
+    fecha: '2026-11-19',
+    tipo: 'constelacion',
+    titulo: 'Une las estrellas mi cielo y mira lo que el universo escribió para ti',
+    mensaje: 'Dicen que las estrellas guían a quien se pierde, pero yo no necesito mirar al cielo: desde que te conocí, mi camino siempre lleva a ti. Te amo, Isabella, más que a todas las estrellas juntas.',
+    extra: { estrellas: 16 }
+  },
 ] 
