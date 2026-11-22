@@ -181,4 +181,39 @@ export const sorpresas = [
     mensaje: 'Dicen que las estrellas guían a quien se pierde, pero yo no necesito mirar al cielo: desde que te conocí, mi camino siempre lleva a ti. Te amo, Isabella, más que a todas las estrellas juntas.',
     extra: { estrellas: 16 }
   },
+  {
+    fecha: '2026-11-20',
+    tipo: 'constelacion',
+    titulo: 'Une las estrellas mi amor',
+    mensaje: 'Las estrellas del cielo no se comparan con la luz que traes a mi vida. Eres mi guía, mi inspiración y la razón por la que sonrío cada día. Te amo más de lo que las palabras pueden expresar.',
+    extra: { estrellas: 12 }
+  },
+  {
+    fecha: '2026-11-21',
+    tipo: 'palabra',
+    titulo: 'Ordena la palabra secreta',
+    mensaje: 'Es lo que eres para mi, mi futuro',
+    extra: { palabra: 'ESPOSA', pista: 'Lo que pronto seremos mi vida' }
+  },
+  {
+    fecha: '2026-11-22',
+    tipo: 'atrapa todo mi amor',
+    titulo: 'Cada corazon que atrapes es un pedacito de mi amor para ti, aunque no sean el real porque ya eres dueña de el desde que nos conocimos mi amor',
+    mensaje: 'Cada corazon que atrapes es un pedacito de mi amor para ti, aunque no sean el real porque ya eres dueña de el desde que nos conocimos mi amor, te adoro mi cielo',
+    extra: { meta: 22 }
+  },
+  {
+    fecha: '2026-11-23',
+    tipo: 'burbujas',
+    titulo: 'Revienta las burbujas',
+    mensaje: 'Este papelito de burbuja es para ti, mi amor. Cada burbuja que revientes es un recordatorio de lo mucho que te amo y de lo feliz que me haces cada día. Gracias por ser mi compañera, mi amiga y mi amor eterno.',
+    extra: { palabras: ['Tu','Isabella','haces','que','mi','vida','sea','muchisimo','mejor',',te','adoro','con','todo','mi','ser,','eres', 'mi', 'persona', 'favorita', 'en', 'todo', 'el', 'mundo'] }
+  },
+  {
+    fecha: '2026-11-24',
+    tipo: 'carta',
+    titulo: 'Para que veas cuanto te amo mi vida, una carta para ti',
+    mensaje: 'Te extraño mucho, mi amor. Cada día sin ti se siente incompleto, y no puedo esperar para abrazarte de nuevo. Eres mi todo, Isabella, y te amo más de lo que las palabras pueden expresar.',
+    extra: { firma: 'Con todo el amor del mundo, tu novio 💌. SIEMPRE tuyo.' }
+  },
 ] 
