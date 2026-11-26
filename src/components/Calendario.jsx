@@ -6,7 +6,7 @@ const MESES = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio',
     const DIAS = ['Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb', 'Dom']
     const ICONOS = {
     carta: '💌', rasca: '🎟️', memoria: '🃏', constelacion: '🌌',
-    palabra: '🔤', atrapa: '💘', burbujas: '🫧'
+    palabra: '🔤', atrapa: '💘', burbujas: '🫧', maraton: '🎬'
     }
 
     export default function Calendario({ sorpresas, onAbrir }) {

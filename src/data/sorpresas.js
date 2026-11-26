@@ -216,4 +216,31 @@ export const sorpresas = [
     mensaje: 'Te extraño mucho, mi amor. Cada día sin ti se siente incompleto, y no puedo esperar para abrazarte de nuevo. Eres mi todo, Isabella, y te amo más de lo que las palabras pueden expresar.',
     extra: { firma: 'Con todo el amor del mundo, tu novio 💌. SIEMPRE tuyo.' }
   },
+  {
+    fecha: '2026-11-25',
+    tipo: 'rasca',
+    titulo: 'Hay un premio escondido para ti mi vida, debes deseentrarlo y descubrirlo',
+    mensaje: 'Esto es para ti, mi amor. Una vida de consentirte, donde tú eliges la comida, la película y todo lo que quieras hacer. Solo dime cuándo y yo me encargo de que sea un día inolvidable.',
+    extra: { premio: '🎟️ Cupón: 1 vida juntos como esposos' }
+  },
+  {
+    fecha: '2026-11-26',
+    tipo: 'memoria',
+    titulo: 'Como nosotros, debes encontrar todas las parejas para descubrir el mensaje secreto que te tengo preparado.',
+    mensaje: 'Te amo con todo mi ser, Isabella. Cada momento contigo es un tesoro que guardo en mi corazón. Gracias por ser mi compañera, mi amiga y mi amor eterno. Eres mi todo y siempre lo serás.',
+    extra: { emojis: ['💕', '🌷', '☀️', '🐻', '🍫', '💍', '🎀', '🌈'] }
+  },
+  {
+    fecha: '2026-11-27',
+    tipo: 'maraton',
+    titulo: 'Nuestra maratón de videos',
+    mensaje: 'Esta maratón guarda tres pedacitos de nosotros. Gracias por cada recuerdo, cada risa y cada momento juntos. Eres mi amor, mi historia favorita y mi hogar.',
+    extra: {
+      videos: [
+        { titulo: 'Nuestro primer recuerdo', src: '/videos/video-1.mp4' },
+        { titulo: 'Todas las aventuras contigo', src: '/videos/video-2.mp4' },
+        { titulo: 'Mi mensaje final para ti', src: '/videos/video-3.mp4' }
+      ]
+    }
+  },
 ] 

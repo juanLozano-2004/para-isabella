@@ -6,10 +6,12 @@ import Constelacion from './juegos/Constelacion'
 import Palabra from './juegos/Palabra'
 import AtrapaCorazones from './juegos/AtrapaCorazones'
 import Burbujas from './juegos/Burbujas'
+import MaratonVideos from './juegos/MaratonVideos'
 
 const JUEGOS = {
   carta: Carta, rasca: RascaGana, memoria: Memoria, constelacion: Constelacion,
-  palabra: Palabra, atrapa: AtrapaCorazones, burbujas: Burbujas
+  palabra: Palabra, atrapa: AtrapaCorazones, burbujas: Burbujas,
+  maraton: MaratonVideos
 }
 
 function MensajeFinal({ texto }) {
