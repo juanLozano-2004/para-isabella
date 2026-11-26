@@ -217,7 +217,7 @@ export const sorpresas = [
     extra: { firma: 'Con todo el amor del mundo, tu novio 💌. SIEMPRE tuyo.' }
   },
   {
-    fecha: '2026-11-27',
+    fecha: '2026-11-25',
     tipo: 'rasca',
     titulo: 'Hay un premio escondido para ti mi vida, debes deseentrarlo y descubrirlo',
     mensaje: 'Esto es para ti, mi amor. Una vida de consentirte, donde tú eliges la comida, la película y todo lo que quieras hacer. Solo dime cuándo y yo me encargo de que sea un día inolvidable.',
@@ -231,7 +231,7 @@ export const sorpresas = [
     extra: { emojis: ['💕', '🌷', '☀️', '🐻', '🍫', '💍', '🎀', '🌈'] }
   },
   {
-    fecha: '2026-11-25',
+    fecha: '2026-11-27',
     tipo: 'maraton',
     titulo: 'Nuestra maratón de videos',
     mensaje: 'Esta maratón guarda tres pedacitos de nosotros. Gracias por cada recuerdo, cada risa y cada momento juntos. Eres mi amor, mi historia favorita y mi hogar.',
